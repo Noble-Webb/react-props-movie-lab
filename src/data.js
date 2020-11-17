@@ -1,3 +1,6 @@
+import React from 'react'
+import MovieShowcase from './MovieShowcase'
+
 const movieData = [
   {
     title: 'Choux and Maru go to Istanbul',
@@ -55,5 +58,10 @@ const movieData = [
     poster: 'the-trash-man'
   },
 ]
+
+// class Data extends React.Component{
+
+//   render
+// }
 
 export default movieData
